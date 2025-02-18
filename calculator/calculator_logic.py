@@ -8,4 +8,5 @@ class Calculator:
     def divide(self, a, b):
         if b == 0:
             print("Error. You cannot divide by zero!")
+            return None
         return a / b
