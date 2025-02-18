@@ -1,0 +1,5 @@
+.idea/ # created by JetBrains IDE
+.venv/ # Virtual environment
+*.pyc
+__pycache__/
+*.log
